@@ -1,0 +1,4 @@
+# godot-shader-sample00
+
+- Sprite2DのTextureを設定してインスペクタのCanvasItemセクション下のMaterialにShaderMaterialを設定する
+- VisualShaderで遊べる
